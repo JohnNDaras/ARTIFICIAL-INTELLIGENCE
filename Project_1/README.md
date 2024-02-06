@@ -34,7 +34,6 @@ heuristic.  <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Find the Euclidean distance from the current state to the next nearest corner.  <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Find the Euclidean distance between unexplored foods.  <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• If you find a minimum Euclidean distance between the next and current closest
-foods, the next one becomes &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;the current one in the next iteration, and the next one is
-removed. Repeat until all food is eaten.  <br>
+foods, the next one becomes the current one in the next iteration, and the next one is removed. Repeat until all food is eaten.  <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• The heuristic is the sum of distances between the current state and the closest food
 and between the closest food and the remaining foods.  <br>
