@@ -6,7 +6,7 @@ before moving on to the<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; nei
 nodes in order of increasing <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; path cost, ensuring that the first goal node selected for
 expansion is the optimal solution.  <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• A*: A best-first search algorithm using an evaluation function that combines heuristic and
-actual costs. In this case, it is the estimated cost of the cheapest solution through node n.  <br>  <br>
+actual costs. In this case, it is<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; the estimated cost of the cheapest solution through node n.  <br>  <br>
 **searchAgents.py:**  <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**• getSuccessors:**  <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Returns a list of triples (successor, action, stepCost) for a given state.  <br>
