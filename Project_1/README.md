@@ -1,7 +1,7 @@
 **Search.py:** <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Proposal one of the nodes at the deepest level of the search tree. <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• BFS Search: The search starts from the root of the tree and explores neighboring nodes
-before moving on to the<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; neighbors of the next level.  <br>
+before moving on to the<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; neighbors of the next level.  <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Uniform Cost Search (UCS): Expands the frontier node with the lowest cost. UCS expands
 nodes in order of increasing path cost, ensuring that the first goal node selected for
 expansion is the optimal solution.  <br>
