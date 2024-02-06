@@ -25,7 +25,7 @@ the heuristic.  <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• If there is no more food, the heuristic is returned.  <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Loop to calculate the Euclidean distance and position of the closest food.  <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Distances are distributed in descending order.  <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• The Euclidean distance between the closest food and the farther food is added to the  <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• The Euclidean distance between the closest food and the farther food is added to the
 heuristic.  <br>
 • foodHeuristic:  <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• When reaching a goal state with no more food, the heuristic is 0.  <br>
