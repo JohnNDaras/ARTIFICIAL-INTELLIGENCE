@@ -9,7 +9,7 @@ expansion is the optimal solution.  <br>
 actual costs. In this case, it is the estimated cost of the cheapest solution through node n.  <br>  <br>
 searchAgents.py:  <br>
 • getSuccessors:  <br>
-&nbsp;&nbsp;• Returns a list of triples (successor, action, stepCost) for a given state.  <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Returns a list of triples (successor, action, stepCost) for a given state.  <br>
 • CornersHeuristic:  <br>
 • Always returns a number, a lower bound of the shortest path from the state to the
 goal node.  <br>
