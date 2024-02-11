@@ -9,6 +9,7 @@
 
 <h1>multiAgents.py</h1>
 
+<p>The computational intelligence component of the entire codebase is outlined below:</p>
 <p>This module contains implementations of different types of agents for playing Pacman. Below is an explanation of each function and class within the module:</p>
 
 <h2>ReflexAgent class</h2>
