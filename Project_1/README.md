@@ -6,6 +6,7 @@
 <title>Search Algorithms README</title>
 </head>
 <body>
+<p>The computational intelligence component of the entire codebase is outlined below:</p>
 
 <h3>search.py</h3>
 
