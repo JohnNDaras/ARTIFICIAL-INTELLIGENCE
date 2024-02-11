@@ -7,7 +7,7 @@
 </head>
 <body>
 
-<h1>search.py</h1>
+<h3>search.py</h3>
 
 <p>This module implements generic search algorithms that are utilized by Pacman agents in searchAgents.py.</p>
 
@@ -46,7 +46,7 @@
 
 <p>Searches the node that has the lowest combined cost and heuristic first. It returns a list of actions that reaches the goal and utilizes the A* search algorithm, where the heuristic parameter is used to calculate the heuristic cost.</p>
 
-<h1>searchAgents.py</h1>
+<h3>searchAgents.py</h3>
 
 <p>This file contains agents that control Pacman. The agents use various search algorithms to find paths through the maze.</p>
 
