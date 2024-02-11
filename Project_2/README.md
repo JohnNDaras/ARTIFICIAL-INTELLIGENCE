@@ -6,7 +6,7 @@
 </head>
 <body>
 <p>The computational intelligence component of the entire codebase is outlined below:</p>
-<h1>multiAgents.py</h1>
+<h2>multiAgents.py</h2>
 
 <p>This module contains implementations of different types of agents for playing Pacman. Below is an explanation of each function and class within the module:</p>
 
